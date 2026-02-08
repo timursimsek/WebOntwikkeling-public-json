@@ -18,7 +18,7 @@
       "name": "De Reisgenoten",
       "leader": "Gandalf de Grijze",
       "foundedYear": 3018,
-      "emblemUrl": "https://example.com/images/fellowship-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
       "isSecret": false
     }
   },
@@ -38,7 +38,7 @@
       "name": "De Reisgenoten",
       "leader": "Gandalf de Grijze",
       "foundedYear": 3018,
-      "emblemUrl": "https://example.com/images/fellowship-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
       "isSecret": false
     }
   },
@@ -58,7 +58,7 @@
       "name": "Koninkrijk Gondor",
       "leader": "Aragorn II Elessar",
       "foundedYear": 3320,
-      "emblemUrl": "https://example.com/images/gondor-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/gondor.png?raw=true",
       "isSecret": false
     }
   },
@@ -78,7 +78,7 @@
       "name": "Bosrijk",
       "leader": "Thranduil",
       "foundedYear": 1000,
-      "emblemUrl": "https://example.com/images/mirkwood-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mirkwood.jpg?raw=true",
       "isSecret": false
     }
   },
@@ -98,7 +98,7 @@
       "name": "Erebor",
       "leader": "Dáin IJzervoet",
       "foundedYear": 1999,
-      "emblemUrl": "",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/erebor.png?raw=true",
       "isSecret": false
     }
   },
@@ -118,7 +118,7 @@
       "name": "De Reisgenoten",
       "leader": "Gandalf de Grijze",
       "foundedYear": 3018,
-      "emblemUrl": "https://example.com/images/fellowship-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
       "isSecret": false
     }
   },
@@ -138,7 +138,7 @@
       "name": "Koninkrijk Gondor",
       "leader": "Aragorn II Elessar",
       "foundedYear": 3320,
-      "emblemUrl": "https://example.com/images/gondor-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/gondor.png?raw=true",
       "isSecret": false
     }
   },
@@ -158,7 +158,7 @@
       "name": "Nevelbergen",
       "leader": "Geen",
       "foundedYear": 0,
-      "emblemUrl": "https://example.com/images/misty-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/misty_mountains.jpg?raw=true",
       "isSecret": true
     }
   },
@@ -178,7 +178,7 @@
       "name": "Isengard",
       "leader": "Saruman de Witte",
       "foundedYear": 2759,
-      "emblemUrl": "https://example.com/images/isengard-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/isengard.jpg?raw=true",
       "isSecret": false
     }
   },
@@ -198,7 +198,7 @@
       "name": "Mordor",
       "leader": "Sauron",
       "foundedYear": 1000,
-      "emblemUrl": "https://example.com/images/mordor-emblem.png",
+      "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mordor.jpg?raw=true",
       "isSecret": false
     }
   }

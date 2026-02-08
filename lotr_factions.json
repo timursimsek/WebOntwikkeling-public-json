@@ -4,7 +4,7 @@
     "name": "De Reisgenoten",
     "leader": "Gandalf de Grijze",
     "foundedYear": 3018,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
     "isSecret": false,
     "motto": "Eén missie, negen helden"
   },
@@ -13,7 +13,7 @@
     "name": "Koninkrijk Gondor",
     "leader": "Aragorn II Elessar",
     "foundedYear": 3320,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/gondor.png?raw=true",
     "isSecret": false,
     "motto": "De Witte Boom zal bloeien"
   },
