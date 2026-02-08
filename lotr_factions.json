@@ -31,7 +31,7 @@
     "name": "Erebor",
     "leader": "Dáin IJzervoet",
     "foundedYear": 1999,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/erebor.png?raw=true",
     "isSecret": false,
     "motto": "Rijkdom onder de berg"
   },
