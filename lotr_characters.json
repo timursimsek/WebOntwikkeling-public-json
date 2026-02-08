@@ -1,0 +1,202 @@
+[
+  {
+    "id": "CHAR-001",
+    "name": "Frodo Baggins",
+    "description": "Een bescheiden hobbit uit de Gouw die de Ringdrager wordt en de taak krijgt om de Ene Ring te vernietigen in de vuren van de Doemberg.",
+    "age": 50,
+    "isActive": true,
+    "birthDate": "2968-09-22",
+    "imageUrl": "https://example.com/images/frodo.jpg",
+    "race": "Hobbit",
+    "titles": ["Ringdrager", "Plaatsvervangend burgemeester van Michel Delving"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-001",
+      "name": "De Reisgenoten",
+      "leader": "Gandalf de Grijze",
+      "foundedYear": 3018,
+      "emblemUrl": "https://example.com/images/fellowship-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-002",
+    "name": "Gandalf de Grijze",
+    "description": "Een wijze en machtige tovenaar die de Vrije Volkeren van Midden‑aarde begeleidt in hun strijd tegen Sauron.",
+    "age": 2019,
+    "isActive": true,
+    "birthDate": "Onbekend",
+    "imageUrl": "https://example.com/images/gandalf.jpg",
+    "race": "Maia",
+    "titles": ["Tovenaar", "Istari", "Dienaar van het Geheime Vuur"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-001",
+      "name": "De Reisgenoten",
+      "leader": "Gandalf de Grijze",
+      "foundedYear": 3018,
+      "emblemUrl": "https://example.com/images/fellowship-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-003",
+    "name": "Aragorn",
+    "description": "De laatste erfgenaam van Isildur, een zwerver uit het Noorden die uiteindelijk de troon van Gondor opeist.",
+    "age": 87,
+    "isActive": true,
+    "birthDate": "2931-03-01",
+    "imageUrl": "https://example.com/images/aragorn.jpg",
+    "race": "Mens",
+    "titles": ["Koning van Gondor", "Strijder", "Dúnedain‑zwerver"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-002",
+      "name": "Koninkrijk Gondor",
+      "leader": "Aragorn II Elessar",
+      "foundedYear": 3320,
+      "emblemUrl": "https://example.com/images/gondor-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-004",
+    "name": "Legolas",
+    "description": "Een elfenprins uit het Bosrijk, ongeëvenaard met de boog en een loyaal lid van de Reisgenoten.",
+    "age": 2931,
+    "isActive": true,
+    "birthDate": "Onbekend",
+    "imageUrl": "https://example.com/images/legolas.jpg",
+    "race": "Elf",
+    "titles": ["Prins van Mirkwood", "Meesterboogschutter"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-003",
+      "name": "Bosrijk",
+      "leader": "Thranduil",
+      "foundedYear": 1000,
+      "emblemUrl": "https://example.com/images/mirkwood-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-005",
+    "name": "Gimli",
+    "description": "Een dappere dwergenkrijger uit de Eenzame Berg, bekend om zijn loyaliteit, kracht en zijn vriendschap met Legolas.",
+    "age": 139,
+    "isActive": true,
+    "birthDate": "2879-04-12",
+    "imageUrl": "",
+    "race": "Dwerg",
+    "titles": ["Bijlkrijger", "Heer van de Glinsterende Grotten"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-004",
+      "name": "Erebor",
+      "leader": "Dáin IJzervoet",
+      "foundedYear": 1999,
+      "emblemUrl": "",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-006",
+    "name": "Samwise Gamgee",
+    "description": "Frodo’s trouwe metgezel en tuinman, wiens moed en hart onmisbaar blijken in de zoektocht om de Ene Ring te vernietigen.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "2980-04-06",
+    "imageUrl": "",
+    "race": "Hobbit",
+    "titles": ["Ringdrager", "Burgemeester van de Gouw"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-001",
+      "name": "De Reisgenoten",
+      "leader": "Gandalf de Grijze",
+      "foundedYear": 3018,
+      "emblemUrl": "https://example.com/images/fellowship-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-007",
+    "name": "Boromir",
+    "description": "Een dappere krijger van Gondor wiens verlangen om zijn volk te beschermen hem in conflict brengt met de verleidingen van de Ring.",
+    "age": 41,
+    "isActive": false,
+    "birthDate": "2978-02-20",
+    "imageUrl": "https://example.com/images/boromir.jpg",
+    "race": "Mens",
+    "titles": ["Kapitein van de Witte Toren"],
+    "alignment": "Goed",
+    "faction": {
+      "id": "FAC-002",
+      "name": "Koninkrijk Gondor",
+      "leader": "Aragorn II Elessar",
+      "foundedYear": 3320,
+      "emblemUrl": "https://example.com/images/gondor-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-008",
+    "name": "Gollum",
+    "description": "Ooit een hobbitachtig wezen genaamd Sméagol, maar verdorven door de Ene Ring tot een gekwelde figuur die geobsedeerd is door zijn ‘kostbare’.",
+    "age": 589,
+    "isActive": false,
+    "birthDate": "2430-01-15",
+    "imageUrl": "https://example.com/images/gollum.jpg",
+    "race": "Onbekend",
+    "titles": ["Ringdrager"],
+    "alignment": "Neutraal",
+    "faction": {
+      "id": "FAC-005",
+      "name": "Nevelbergen",
+      "leader": "Geen",
+      "foundedYear": 0,
+      "emblemUrl": "https://example.com/images/misty-emblem.png",
+      "isSecret": true
+    }
+  },
+  {
+    "id": "CHAR-009",
+    "name": "Saruman",
+    "description": "Ooit het hoofd van de Witte Raad, maar uiteindelijk gecorrumpeerd en verlangend naar de Ene Ring voor zichzelf.",
+    "age": 2019,
+    "isActive": false,
+    "birthDate": "Onbekend",
+    "imageUrl": "https://example.com/images/saruman.jpg",
+    "race": "Maia",
+    "titles": ["Witte Tovenaar", "Hoofd van de Istari"],
+    "alignment": "Kwaad",
+    "faction": {
+      "id": "FAC-006",
+      "name": "Isengard",
+      "leader": "Saruman de Witte",
+      "foundedYear": 2759,
+      "emblemUrl": "https://example.com/images/isengard-emblem.png",
+      "isSecret": false
+    }
+  },
+  {
+    "id": "CHAR-010",
+    "name": "Sauron",
+    "description": "De Duistere Heer van Mordor, schepper van de Ene Ring en de belangrijkste antagonist die heerst door angst en overheersing.",
+    "age": 54000,
+    "isActive": true,
+    "birthDate": "Onbekend",
+    "imageUrl": "https://example.com/images/sauron.jpg",
+    "race": "Maia",
+    "titles": ["Duistere Heer", "Nekromant"],
+    "alignment": "Kwaad",
+    "faction": {
+      "id": "FAC-007",
+      "name": "Mordor",
+      "leader": "Sauron",
+      "foundedYear": 1000,
+      "emblemUrl": "https://example.com/images/mordor-emblem.png",
+      "isSecret": false
+    }
+  }
+]

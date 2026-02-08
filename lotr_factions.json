@@ -1,0 +1,65 @@
+[
+  {
+    "id": "FAC-001",
+    "name": "De Reisgenoten",
+    "leader": "Gandalf de Grijze",
+    "foundedYear": 3018,
+    "emblemUrl": "",
+    "isSecret": false,
+    "motto": "Eén missie, negen helden"
+  },
+  {
+    "id": "FAC-002",
+    "name": "Koninkrijk Gondor",
+    "leader": "Aragorn II Elessar",
+    "foundedYear": 3320,
+    "emblemUrl": "",
+    "isSecret": false,
+    "motto": "De Witte Boom zal bloeien"
+  },
+  {
+    "id": "FAC-003",
+    "name": "Bosrijk",
+    "leader": "Thranduil",
+    "foundedYear": 1000,
+    "emblemUrl": "",
+    "isSecret": false,
+    "motto": "In stilte schuilt kracht"
+  },
+  {
+    "id": "FAC-004",
+    "name": "Erebor",
+    "leader": "Dáin IJzervoet",
+    "foundedYear": 1999,
+    "emblemUrl": "",
+    "isSecret": false,
+    "motto": "Rijkdom onder de berg"
+  },
+  {
+    "id": "FAC-005",
+    "name": "Nevelbergen",
+    "leader": "Geen",
+    "foundedYear": 0,
+    "emblemUrl": "",
+    "isSecret": true,
+    "motto": "Verloren in de duisternis"
+  },
+  {
+    "id": "FAC-006",
+    "name": "Isengard",
+    "leader": "Saruman de Witte",
+    "foundedYear": 2759,
+    "emblemUrl": "",
+    "isSecret": false,
+    "motto": "Kennis is macht"
+  },
+  {
+    "id": "FAC-007",
+    "name": "Mordor",
+    "leader": "Sauron",
+    "foundedYear": 1000,
+    "emblemUrl": "",
+    "isSecret": false,
+    "motto": "Alles ziet het Oog"
+  }
+]
