@@ -22,7 +22,7 @@
     "name": "Bosrijk",
     "leader": "Thranduil",
     "foundedYear": 1000,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mirkwood.jpg?raw=true",
     "isSecret": false,
     "motto": "In stilte schuilt kracht"
   },
@@ -40,7 +40,7 @@
     "name": "Nevelbergen",
     "leader": "Geen",
     "foundedYear": 0,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/misty_mountains.jpg?raw=true",
     "isSecret": true,
     "motto": "Verloren in de duisternis"
   },
@@ -49,7 +49,7 @@
     "name": "Isengard",
     "leader": "Saruman de Witte",
     "foundedYear": 2759,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/isengard.jpg?raw=true",
     "isSecret": false,
     "motto": "Kennis is macht"
   },
@@ -58,8 +58,8 @@
     "name": "Mordor",
     "leader": "Sauron",
     "foundedYear": 1000,
-    "emblemUrl": "",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mordor.jpg?raw=true",
     "isSecret": false,
-    "motto": "Alles ziet het Oog"
+    "motto": "Het oog ziet alles"
   }
 ]
