@@ -19,7 +19,8 @@
       "leader": "Gandalf the Grey",
       "foundedYear": 3018,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "One mission, nine heroes"
     }
   },
   {
@@ -39,7 +40,8 @@
       "leader": "Gandalf the Grey",
       "foundedYear": 3018,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "One mission, nine heroes"
     }
   },
   {
@@ -59,7 +61,8 @@
       "leader": "Aragorn II Elessar",
       "foundedYear": 3320,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/gondor.png?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "The White Tree shall bloom"
     }
   },
   {
@@ -79,7 +82,8 @@
       "leader": "Thranduil",
       "foundedYear": 1000,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mirkwood.jpg?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "Strength lies in silence"
     }
   },
   {
@@ -99,7 +103,8 @@
       "leader": "Dáin Ironfoot",
       "foundedYear": 1999,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/erebor.png?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "Wealth beneath the mountain"
     }
   },
   {
@@ -119,7 +124,8 @@
       "leader": "Gandalf the Grey",
       "foundedYear": 3018,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/fellowship.png?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "One mission, nine heroes"
     }
   },
   {
@@ -139,7 +145,8 @@
       "leader": "Aragorn II Elessar",
       "foundedYear": 3320,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/gondor.png?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "The White Tree shall bloom"
     }
   },
   {
@@ -159,7 +166,8 @@
       "leader": "None",
       "foundedYear": 0,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/misty_mountains.jpg?raw=true",
-      "isSecret": true
+      "isSecret": true,
+      "motto": "Lost in the darkness"
     }
   },
   {
@@ -179,7 +187,8 @@
       "leader": "Saruman the White",
       "foundedYear": 2759,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/isengard.jpg?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "Knowledge is power"
     }
   },
   {
@@ -199,7 +208,8 @@
       "leader": "Sauron",
       "foundedYear": 1000,
       "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mordor.jpg?raw=true",
-      "isSecret": false
+      "isSecret": false,
+      "motto": "The Eye sees all"
     }
   }
 ]
