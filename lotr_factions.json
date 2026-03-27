@@ -13,7 +13,7 @@
     "name": "Kingdom of Gondor",
     "leader": "Aragorn II Elessar",
     "foundedYear": 3320,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/gondor.png?raw=true",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/gonder.png",
     "isSecret": false,
     "motto": "The White Tree shall bloom"
   },
@@ -22,7 +22,7 @@
     "name": "Woodland Realm",
     "leader": "Thranduil",
     "foundedYear": 1000,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/mirkwood.jpg?raw=true",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/mirkwood.png",
     "isSecret": false,
     "motto": "Strength lies in silence"
   },
@@ -31,7 +31,7 @@
     "name": "Erebor",
     "leader": "Dáin Ironfoot",
     "foundedYear": 1999,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/erebor.png?raw=true",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/erebor.png",
     "isSecret": false,
     "motto": "Wealth beneath the mountain"
   },
@@ -40,7 +40,7 @@
     "name": "Misty Mountains",
     "leader": "None",
     "foundedYear": 0,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/misty_mountains.jpg?raw=true",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/misty_mountains.png",
     "isSecret": true,
     "motto": "Lost in the darkness"
   },
@@ -49,7 +49,7 @@
     "name": "Isengard",
     "leader": "Saruman the White",
     "foundedYear": 2759,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/isengard.jpg?raw=true",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/isengard.png",
     "isSecret": false,
     "motto": "Knowledge is power"
   },
@@ -58,7 +58,7 @@
     "name": "Mordor",
     "leader": "Sauron",
     "foundedYear": 1000,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/mordor.jpg?raw=true",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/mordor.png",
     "isSecret": false,
     "motto": "The Eye sees all"
   }
