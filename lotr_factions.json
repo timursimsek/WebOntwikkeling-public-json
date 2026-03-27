@@ -13,7 +13,7 @@
     "name": "Kingdom of Gondor",
     "leader": "Aragorn II Elessar",
     "foundedYear": 3320,
-    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/gonder.png",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/gondor.png",
     "isSecret": false,
     "motto": "The White Tree shall bloom"
   },
@@ -22,7 +22,7 @@
     "name": "Woodland Realm",
     "leader": "Thranduil",
     "foundedYear": 1000,
-    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/mirkwood.png",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/mirkwood.jpg",
     "isSecret": false,
     "motto": "Strength lies in silence"
   },
@@ -40,7 +40,7 @@
     "name": "Misty Mountains",
     "leader": "None",
     "foundedYear": 0,
-    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/misty_mountains.png",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/misty_mountains.jpg",
     "isSecret": true,
     "motto": "Lost in the darkness"
   },
@@ -49,7 +49,7 @@
     "name": "Isengard",
     "leader": "Saruman the White",
     "foundedYear": 2759,
-    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/isengard.png",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/isengard.jpg",
     "isSecret": false,
     "motto": "Knowledge is power"
   },
@@ -58,7 +58,7 @@
     "name": "Mordor",
     "leader": "Sauron",
     "foundedYear": 1000,
-    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/mordor.png",
+    "emblemUrl": "https://raw.githubusercontent.com/timursimsek/WebOntwikkeling-public-json/main/images/mordor.jpg",
     "isSecret": false,
     "motto": "The Eye sees all"
   }
