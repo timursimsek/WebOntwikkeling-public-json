@@ -4,7 +4,7 @@
     "name": "The Fellowship",
     "leader": "Gandalf the Grey",
     "foundedYear": 3018,
-    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/main/images/fellowship.png?raw=true",
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/6a4af56fe507714de9fdd33f6d7b3f24eec9440a/images/fellowship.png",
     "isSecret": false,
     "motto": "One mission, nine heroes"
   },
