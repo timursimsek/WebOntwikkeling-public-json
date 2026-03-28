@@ -212,4 +212,172 @@
       "motto": "The Eye sees all"
     }
   }
+  {
+  "id": "CHAR-011",
+  "name": "Meriadoc Brandybuck",
+  "description": "A courageous hobbit of the Shire whose loyalty and strategic mind prove vital during the War of the Ring.",
+  "age": 36,
+  "isActive": true,
+  "birthDate": "2982-11-16",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/merry.png?raw=true",
+  "race": "Hobbit",
+  "titles": ["Knight of Rohan"],
+  "alignment": "Good",
+  "faction": {
+    "id": "FAC-008",
+    "name": "Rohan",
+    "leader": "King Théoden",
+    "foundedYear": 2510,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/rohan.png?raw=true",
+    "isSecret": false,
+    "motto": "Strength of the horse-lords"
+  }
+}
+{
+  "id": "CHAR-012",
+  "name": "Peregrin Took",
+  "description": "A spirited hobbit whose bravery and unexpected maturity contribute greatly to the struggle against the Shadow.",
+  "age": 28,
+  "isActive": true,
+  "birthDate": "2990-03-06",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/pippin.png?raw=true",
+  "race": "Hobbit",
+  "titles": ["Guard of the Citadel"],
+  "alignment": "Good",
+  "faction": {
+    "id": "FAC-002",
+    "name": "Kingdom of Gondor",
+    "leader": "Aragorn II Elessar",
+    "foundedYear": 3320,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/gondor.png?raw=true",
+    "isSecret": false,
+    "motto": "The White Tree shall bloom"
+  }
+} 
+{
+  "id": "CHAR-013",
+  "name": "Théoden",
+  "description": "The noble King of Rohan who overcomes corruption to lead his people in their hour of greatest need.",
+  "age": 71,
+  "isActive": false,
+  "birthDate": "2948-04-02",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/theoden.png?raw=true",
+  "race": "Human",
+  "titles": ["King of Rohan"],
+  "alignment": "Good",
+  "faction": {
+    "id": "FAC-008",
+    "name": "Rohan",
+    "leader": "Théoden",
+    "foundedYear": 2510,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/rohan.png?raw=true",
+    "isSecret": false,
+    "motto": "Strength of the horse-lords"
+  }
+}
+{
+  "id": "CHAR-014",
+  "name": "Éowyn",
+  "description": "A shieldmaiden of Rohan renowned for her courage and defiance against overwhelming darkness.",
+  "age": 24,
+  "isActive": true,
+  "birthDate": "2995-01-01",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/eowyn.png?raw=true",
+  "race": "Human",
+  "titles": ["Shieldmaiden of Rohan"],
+  "alignment": "Good",
+  "faction": {
+    "id": "FAC-008",
+    "name": "Rohan",
+    "leader": "Théoden",
+    "foundedYear": 2510,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/rohan.png?raw=true",
+    "isSecret": false,
+    "motto": "Strength of the horse-lords"
+  }
+}
+{
+  "id": "CHAR-015",
+  "name": "Éomer",
+  "description": "A valiant marshal of the Riddermark and a key figure in the defense of Rohan during the War of the Ring.",
+  "age": 28,
+  "isActive": true,
+  "birthDate": "2991-03-01",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/eomer.png?raw=true",
+  "race": "Human",
+  "titles": ["Marshal of the Riddermark"],
+  "alignment": "Good",
+  "faction": {
+    "id": "FAC-008",
+    "name": "Rohan",
+    "leader": "Théoden",
+    "foundedYear": 2510,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/rohan.png?raw=true",
+    "isSecret": false,
+    "motto": "Strength of the horse-lords"
+  }
+}
+{
+  "id": "CHAR-016",
+  "name": "Witch-king of Angmar",
+  "description": "The lord of the Nazgûl and Sauron’s most feared servant.",
+  "age": "Unknown",
+  "isActive": true,
+  "birthDate": "Unknown",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/witchking.png?raw=true",
+  "race": "Nazgûl",
+  "titles": ["Lord of the Nazgûl"],
+  "alignment": "Evil",
+  "faction": {
+    "id": "FAC-007",
+    "name": "Mordor",
+    "leader": "Sauron",
+    "foundedYear": 1000,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/mordor.jpg?raw=true",
+    "isSecret": false,
+    "motto": "The Eye sees all"
+  }
+}
+{
+  "id": "CHAR-017",
+  "name": "Gríma Wormtongue",
+  "description": "A sly manipulator who serves Saruman while undermining the royal court of Rohan.",
+  "age": 45,
+  "isActive": false,
+  "birthDate": "Unknown",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/wormtongue.png?raw=true",
+  "race": "Human",
+  "titles": ["Advisor of Rohan"],
+  "alignment": "Evil",
+  "faction": {
+    "id": "FAC-006",
+    "name": "Isengard",
+    "leader": "Saruman the White",
+    "foundedYear": 2759,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/isengard.jpg?raw=true",
+    "isSecret": false,
+    "motto": "Knowledge is power"
+  }
+}
+{
+  "id": "CHAR-018",
+  "name": "Lurtz",
+  "description": "A ruthless Uruk-hai leader created to serve Saruman’s growing armies.",
+  "age": 1,
+  "isActive": false,
+  "birthDate": "Unknown",
+  "imageUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/lurtz.png?raw=true",
+  "race": "Uruk-hai",
+  "titles": ["Captain of Isengard"],
+  "alignment": "Evil",
+  "faction": {
+    "id": "FAC-006",
+    "name": "Isengard",
+    "leader": "Saruman the White",
+    "foundedYear": 2759,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/isengard.jpg?raw=true",
+    "isSecret": false,
+    "motto": "Knowledge is power"
+  }
+}
 ]
