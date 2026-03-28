@@ -211,7 +211,7 @@
       "isSecret": false,
       "motto": "The Eye sees all"
     }
-  }
+  },
   {
   "id": "CHAR-011",
   "name": "Meriadoc Brandybuck",
@@ -232,7 +232,7 @@
     "isSecret": false,
     "motto": "Strength of the horse-lords"
   }
-}
+},
 {
   "id": "CHAR-012",
   "name": "Peregrin Took",
@@ -253,7 +253,7 @@
     "isSecret": false,
     "motto": "The White Tree shall bloom"
   }
-} 
+} ,
 {
   "id": "CHAR-013",
   "name": "Théoden",
@@ -274,7 +274,7 @@
     "isSecret": false,
     "motto": "Strength of the horse-lords"
   }
-}
+},
 {
   "id": "CHAR-014",
   "name": "Éowyn",
@@ -295,7 +295,7 @@
     "isSecret": false,
     "motto": "Strength of the horse-lords"
   }
-}
+},
 {
   "id": "CHAR-015",
   "name": "Éomer",
@@ -316,7 +316,7 @@
     "isSecret": false,
     "motto": "Strength of the horse-lords"
   }
-}
+},
 {
   "id": "CHAR-016",
   "name": "Witch-king of Angmar",
@@ -337,7 +337,7 @@
     "isSecret": false,
     "motto": "The Eye sees all"
   }
-}
+},
 {
   "id": "CHAR-017",
   "name": "Gríma Wormtongue",
@@ -358,7 +358,7 @@
     "isSecret": false,
     "motto": "Knowledge is power"
   }
-}
+},
 {
   "id": "CHAR-018",
   "name": "Lurtz",
