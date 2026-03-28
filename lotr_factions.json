@@ -62,4 +62,13 @@
     "isSecret": false,
     "motto": "The Eye sees all"
   }
+  {
+    "id": "FAC-008",
+    "name": "Rohan",
+    "leader": "Théoden",
+    "foundedYear": 2510,
+    "emblemUrl": "https://github.com/timursimsek/WebOntwikkeling-public-json/blob/main/images/rohan.png?raw=true",
+    "isSecret": false,
+    "motto": "Strength of the horse-lords"
+  }
 ]
